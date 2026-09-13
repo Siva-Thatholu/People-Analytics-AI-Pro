@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+faker
+google-generativeai
+python-dotenv
+streamlit
+pandas
+plotly
