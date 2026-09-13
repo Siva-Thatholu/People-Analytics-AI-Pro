@@ -8,10 +8,12 @@ API_URL = "http://127.0.0.1:8000"
 st.set_page_config(page_title="AI People Analytics", layout="wide", page_icon="📊")
 
 # --- UI Styling ---
+# ---
 st.markdown("""
     <style>
     .metric-card {
         background-color: #1E1E1E; border-radius: 10px; padding: 20px; 
+
         box-shadow: 2px 2px 10px rgba(0,0,0,0.5); text-align: center;
     }
     .metric-value { font-size: 32px; font-weight: bold; color: #4CAF50; }
